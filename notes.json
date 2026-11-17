@@ -1,0 +1,117 @@
+{
+  "updated": "2026-11-17",
+  "notes": [
+    {
+      "id": "hk-maw-2026-10",
+      "date": "2026-10-03",
+      "region": "all",
+      "hk": true,
+      "tags": [
+        "wage"
+      ],
+      "source": {
+        "label": "China Daily HK",
+        "url": "https://www.chinadailyhk.com/hk/article/640492"
+      },
+      "en": {
+        "title": "Minimum wage is now HK$5,220",
+        "impact": "For contracts signed on or after 3 Oct 2026, your employer must pay at least HK$5,220 a month (it was HK$5,100). If meals are not provided, the food allowance stays at least HK$1,236. Contracts signed before keep the wage written in them.",
+        "tip": "Got the raise? Move the extra HK$120 into a jar before daily spending finds it, and update your pay in Split my pay."
+      },
+      "idn": {
+        "title": "Gaji minimum sekarang HK$5.220",
+        "impact": "Untuk kontrak yang ditandatangani mulai 3 Okt 2026, majikan wajib membayar minimal HK$5.220 per bulan (sebelumnya HK$5.100). Kalau tidak disediakan makan, tunjangan makan tetap minimal HK$1.236. Kontrak yang ditandatangani sebelumnya tetap memakai gaji yang tertulis di kontrak.",
+        "tip": "Dapat kenaikan? Pindahkan tambahan HK$120 ke toples sebelum habis buat jajan, lalu perbarui gajimu di Bagi gaji."
+      }
+    },
+    {
+      "id": "hk-lender-reform-2026",
+      "date": "2026-05-22",
+      "region": "all",
+      "hk": true,
+      "tags": [
+        "loan"
+      ],
+      "source": {
+        "label": "China Daily HK",
+        "url": "https://www.chinadailyhk.com/hk/article/633782"
+      },
+      "en": {
+        "title": "New rules for money lenders are coming",
+        "impact": "In March 2026 the government announced limits on how much of a low earner's income can go to loan repayments, and an end to loan referees (guarantors). A shared credit database for lenders is planned for June 2027, so lenders will see loans you have elsewhere. Dates and details can still change.",
+        "tip": "Check what % of your pay goes to loans in Debt-free plan. Don't sign as anyone's guarantor. If you already did, add it as a guarantor loan so you can see the risk."
+      },
+      "idn": {
+        "title": "Aturan baru untuk perusahaan pinjaman",
+        "impact": "Pada Maret 2026 pemerintah mengumumkan batas berapa banyak penghasilan pekerja bergaji rendah yang boleh dipakai untuk cicilan, dan penghapusan penjamin pinjaman. Database kredit bersama untuk pemberi pinjaman direncanakan Juni 2027, jadi mereka bisa melihat pinjamanmu di tempat lain. Tanggal dan detail masih bisa berubah.",
+        "tip": "Cek berapa persen gajimu untuk cicilan di Rencana bebas utang. Jangan jadi penjamin siapa pun. Kalau sudah terlanjur, catat sebagai pinjaman penjamin supaya risikonya kelihatan."
+      }
+    },
+    {
+      "id": "hk-rate-cap",
+      "date": "2026-11-12",
+      "region": "all",
+      "hk": true,
+      "tags": [
+        "loan"
+      ],
+      "source": {
+        "label": "HKSAR Government",
+        "url": "https://www.info.gov.hk/gia/general/202210/26/P2022102600289p.htm"
+      },
+      "en": {
+        "title": "48% a year is the legal limit",
+        "impact": "Money lenders in Hong Kong can't charge more than 48% interest a year. Above 36% a year, a loan can be challenged as extortionate. Ads often show a monthly or \"flat\" rate, which looks much smaller than the real yearly one.",
+        "tip": "Before you sign, put the amount, the monthly repayment and the months into 🧮 Before you borrow. It shows the real yearly rate."
+      },
+      "idn": {
+        "title": "Batas legal bunga: 48% setahun",
+        "impact": "Perusahaan pinjaman di Hong Kong tidak boleh menarik bunga lebih dari 48% setahun. Di atas 36% setahun, pinjaman bisa digugat sebagai pemerasan. Iklan sering menulis bunga per bulan atau \"flat\", yang kelihatan jauh lebih kecil dari bunga tahunan sebenarnya.",
+        "tip": "Sebelum tanda tangan, masukkan jumlah pinjaman, cicilan per bulan, dan jumlah bulan ke 🧮 Sebelum meminjam. Bunga tahunan sebenarnya langsung kelihatan."
+      }
+    },
+    {
+      "id": "id-ojk-cap",
+      "date": "2025-01-01",
+      "region": "id",
+      "hk": false,
+      "tags": [
+        "loan"
+      ],
+      "source": {
+        "label": "Katadata",
+        "url": "https://katadata.co.id/amp/digital/fintech/6773d8d20839c/aturan-baru-bunga-pinjaman-daring-0-1-0-3-per-hari-mulai-besok/"
+      },
+      "en": {
+        "title": "Online loan caps in Indonesia",
+        "impact": "Since 1 Jan 2025, OJK caps consumer online loans at 0.3% a day for loans longer than 6 months, and 0.2% a day for shorter ones. Illegal lenders ignore these limits.",
+        "tip": "Only borrow from lenders listed by OJK. Use 🧮 Before you borrow to see the daily cost before you agree."
+      },
+      "idn": {
+        "title": "Batas bunga pinjol di Indonesia",
+        "impact": "Sejak 1 Jan 2025, OJK membatasi bunga pinjol konsumtif maksimal 0,3% per hari untuk tenor di atas 6 bulan, dan 0,2% per hari untuk tenor lebih pendek. Pinjol ilegal tidak mengikuti batas ini.",
+        "tip": "Pinjam hanya dari penyedia yang terdaftar di OJK. Pakai 🧮 Sebelum meminjam untuk melihat biaya per hari sebelum setuju."
+      }
+    },
+    {
+      "id": "kk-split-tip",
+      "date": "2026-11-12",
+      "region": "all",
+      "hk": false,
+      "tags": [
+        "wage"
+      ],
+      "source": null,
+      "en": {
+        "title": "Money without a job leaves first",
+        "impact": "Pay that has no plan tends to disappear into small things in the first days after payday.",
+        "tip": "On payday, open 💸 Split my pay: send home, loans, a jar, then what's left for you. It takes a minute and the plan is saved."
+      },
+      "idn": {
+        "title": "Uang tanpa tujuan paling cepat habis",
+        "impact": "Gaji yang tidak direncanakan biasanya habis untuk hal-hal kecil di hari-hari pertama setelah gajian.",
+        "tip": "Saat gajian, buka 💸 Bagi gaji: kirim ke keluarga, cicilan, toples, lalu sisanya buat kamu. Cuma semenit dan rencananya tersimpan."
+      }
+    }
+  ]
+}
